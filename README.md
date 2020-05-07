@@ -4,7 +4,9 @@ My implementation for System Monitor Project in the Object Oriented Programming 
 
 ## Dependencies 
 
-Install ncurses within your own Linux environment: `sudo apt install libncurses5-dev libncursesw5-dev`
+Install ncurses within your own Linux environment: 
+
+For Debian based distributions : `sudo apt install libncurses5-dev libncursesw5-dev`
 
 You also need `cmake` and `make` installed 
 

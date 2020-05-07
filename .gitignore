@@ -4,3 +4,5 @@ settings.json
 *.o
 build/*
 *.json
+test/
+.vscode
