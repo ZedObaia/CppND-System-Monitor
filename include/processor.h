@@ -11,7 +11,6 @@ class Processor {
   long PrevTotal();
   long PrevIdle();
   long PrevActive();
-
   void Update(long idle, long active, long total);
 
  private:
